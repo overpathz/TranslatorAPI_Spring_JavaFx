@@ -39,7 +39,6 @@ public class TranslateAPI {
     @Autowired
     public TranslateAPI(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
-        System.out.println(TOKEN);
     }
 
     public String translate(IReader iReader, Languages fromLang, Languages toLang) {
