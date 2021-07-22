@@ -1,4 +1,4 @@
-# TranslatorAPI_Spring_JavaFx [Lingvo API]
+# Word translator [Lingvo API]
 
 ## Technologies
 - ##### Java 11
